@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+* [Before Enter School](before-enter-school.md)
+* [课程1](ke-cheng-1.md)
